@@ -33,10 +33,11 @@ tt++ ~/.tintin/dsl.tin
 ## What is in this repo
 
 - `configs/dsl.tin` — starter TinTin++ profile for macOS.
+- `docs/connection-status.md` — connection address and server-status notes.
 - `docs/tintin-setup.md` — client install and usability notes.
 - `docs/paths-and-aliases.md` — travel aliases, including the Room of Healing path.
 - `docs/prompt-and-colors.md` — DSL prompt variables and color-coded prompt examples.
-- `docs/security-notes.md` — TinTin++ supply-chain and vulnerability notes from the check we discussed.
+- `docs/tintin-release-notes.md` — TinTin++ release, install, and safety notes from the check we discussed.
 
 ## Current preferred setup
 
