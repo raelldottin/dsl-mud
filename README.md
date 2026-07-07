@@ -32,6 +32,7 @@ tt++ ~/.tintin/dsl.tin
 
 ## What is in this repo
 
+- `docs/background.md` — what DSL is and the client choice from the conversation.
 - `configs/dsl.tin` — starter TinTin++ profile for macOS.
 - `docs/connection-status.md` — connection address and server-status notes.
 - `docs/tintin-setup.md` — client install and usability notes.
