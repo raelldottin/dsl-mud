@@ -39,6 +39,7 @@ tt++ ~/.tintin/dsl.tin
 - `docs/paths-and-aliases.md` — travel aliases, including the Room of Healing path.
 - `docs/prompt-and-colors.md` — DSL prompt variables and color-coded prompt examples.
 - `docs/tintin-release-notes.md` — TinTin++ release, install, and safety notes from the check we discussed.
+- `characters/yttawstp/2026-07-07-score.md` — Yttawstp level 5 Yinn Mage score snapshot.
 
 ## Current preferred setup
 
@@ -51,6 +52,25 @@ Use **TinTin++** with:
 - basic movement aliases;
 - named travel aliases for important routes;
 - a readable color-coded DSL prompt.
+
+## Character snapshots
+
+### Yttawstp
+
+Current tracked snapshot:
+
+```text
+Level: 5
+Race: Yinn
+Class: Mage
+Profession: Alchemist
+Alignment: True Neutral
+HP/Mana/Move: 74/74, 126/126, 124/124
+XP To Level: 17957
+Silver: 1827
+```
+
+See: `characters/yttawstp/2026-07-07-score.md`
 
 ## Room of Healing path
 
