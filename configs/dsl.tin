@@ -1,0 +1,83 @@
+#nop ============================================================
+#nop DSL / Dark and Shattered Lands TinTin++ starter profile
+#nop Start with: tt++ ~/.tintin/dsl.tin
+#nop ============================================================
+
+#nop --- Terminal / display comfort
+#config {CHARSET} {UTF-8}
+#config {COLOR MODE} {256}
+#config {BUFFER SIZE} {100000}
+#config {SCROLL LOCK} {ON}
+#config {COMMAND ECHO} {OFF}
+
+#nop --- Keep typed commands visible while game output scrolls
+#split 0 1
+
+#nop --- Movement quality of life
+#config {SPEEDWALK} {ON}
+
+#nop --- Logging
+#log timestamp {%Y-%m-%d %H:%M:%S}
+#log append {~/.tintin/logs/dsl.log}
+
+#nop --- Connect
+#session {dsl} {dsl-mud.org} {4000}
+
+#nop --- Basic game aliases
+#alias {l}  {look}
+#alias {i}  {inventory}
+#alias {eq} {equipment}
+#alias {sc} {score}
+#alias {st} {stand}
+#alias {re} {rest}
+#alias {q}  {quit}
+
+#nop --- Direction aliases
+#alias {n}  {north}
+#alias {s}  {south}
+#alias {e}  {east}
+#alias {w}  {west}
+#alias {u}  {up}
+#alias {d}  {down}
+#alias {ne} {northeast}
+#alias {nw} {northwest}
+#alias {se} {southeast}
+#alias {sw} {southwest}
+
+#nop --- Room of Healing path
+#nop Original: d|se|e|e|e|n|e|e|e|e|open east|e|e|s
+#alias {roomofheal}    {d;se;e;e;e;n;e;e;e;e;open east;e;e;s}
+#alias {roomofhealing} {roomofheal}
+#alias {toheal}        {roomofheal}
+#alias {healroom}      {roomofheal}
+#alias {roh}           {roomofheal}
+
+#nop --- Safer slower Room of Healing path if fast commands get dropped
+#alias {tohealslow} {
+  d;
+  #delay {0.2} {se};
+  #delay {0.4} {e};
+  #delay {0.6} {e};
+  #delay {0.8} {e};
+  #delay {1.0} {n};
+  #delay {1.2} {e};
+  #delay {1.4} {e};
+  #delay {1.6} {e};
+  #delay {1.8} {e};
+  #delay {2.0} {open east};
+  #delay {2.2} {e};
+  #delay {2.4} {e};
+  #delay {2.6} {s}
+}
+
+#nop --- Local help for remembered routes
+#alias {paths} {
+  #showme {Travel aliases:};
+  #showme {  toheal / roh / roomofheal = Room of Healing};
+  #showme {  tohealslow               = slower Room of Healing route}
+}
+
+#nop --- Prompt note
+#nop DSL uses literal color codes like {R and {x in the game prompt.
+#nop Because TinTin++ also uses braces for its own syntax, paste color prompts
+#nop directly into DSL first. See docs/prompt-and-colors.md.
