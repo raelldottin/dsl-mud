@@ -1,0 +1,11 @@
+# TinTin++ local logs
+*.log
+logs/
+.tintrc
+
+# macOS
+.DS_Store
+
+# Local notes that may contain private gameplay/session data
+local/
+private/
