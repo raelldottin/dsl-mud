@@ -1,0 +1,610 @@
+Limbo
+====================================================================
+[Level] [Qt] [Name                     ] [Builder                  ]
+[45 51] [ 0] The Spirit World            [Enchantra                ] 
+[32 51] [ 0] Hell                        [Strahd Ketrill           ] 
+[ 1 30] [ 0] Old Thalos                  [Kahn                     ] 
+[ 1  5] [ 0] The Academy                 [Scorn Solum              ] 
+[52 60] [ 0] Limbo                       [Diku                     ] 
+[ 1 51] [ 0] Taverns                     [Maalthiir Vivienne Uziel ] 
+[ 0  0] [ 0] Taverns 2                   [Uziel Joules             ] 
+[ 0  0] [ 0] Gathna                      [Vivienne                 ] 
+[43 51] [ 0] Elemental Planes            [Maalthiir                ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 1 51] [ 0] The Keep of the Knighthoo   [Diavo Laika              ] 
+[30 51] [ 0] Realm of Terror             [Calzam                   ] 
+[ 1 51] [ 0] Artifacts                   [Scorn                    ] 
+[50 51] [ 0] Demon Spawning Pits         [Jubbie                   ] 
+[50 51] [ 0] Great Library of the Hist   [Laika                    ] 
+[50 51] [ 0] Sanctuary of the Light      [Calzam                   ] 
+[25 50] [ 0] The Hellmouth               [Vivienne                 ] 
+[ 0  0] [ 0] Conclave Training Tower     [Vivienne                 ] 
+[ 1 51] [ 0] Legion Battle Grounds       [Scorn                    ] 
+[ 5 51] [ 0] The Ocean Arena             [Kyri Tregarde            ] 
+[ 1  5] [ 0] New Mudschool               [Kyri                     ] 
+[51 51] [ 0] Capture the Flag Arena      [Istiak                   ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 1 51] [ 0] Bloodbath Arena             [Pimento                  ] 
+[ 5 51] [ 0] Conclave Common             [Tashio                   ] 
+[ 0 51] [ 0] Conclave Common 2           [Kyri Tashio              ] 
+[ 0 51] [ 0] Taverns 3                   [Cayenna                  ] 
+[ 1 51] [ 0] Communal Kingdom Clan Roo   [Kyri                     ] 
+[ 1 51] [ 0] The Bloodbath Arena         [Scorn                    ] 
+[ 0  0] [ 0] DSL2                        [Kyri Scorn               ] 
+[ 0  0] [ 0] Personal Towers             [Kyri                     ] 
+[ 1 51] [ 0] Champions Gaming Palace     [Scorn                    ] 
+[ 1 51] [ 0] The Black Moon              [Scorn                    ] 
+[ 1 51] [ 0] Forest Battlefield          [Kyri                     ] 
+[ 0  0] [ 0] Siege and Pirate Weapons    [Bioteq                   ] 
+[35 45] [ 0] Mad Scientist Lab           [Dekaios                  ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[45 51] [ 1] The Hall of Costs           [Scorn                    ] 
+[ 1 51] [ 0] The Land of the Colossus    [Scorn                    ] 
+[51 51] [ 0] A Rip in the Sky            [Cayenna Xenophon         ] 
+[51 51] [ 0] Assassin's Arena            [Xenophon                 ] 
+[51 51] [ 0] The Skies Above             [Tritoch                  ] 
+[ 1 51] [ 0] An Administrative Quarter   [Cayenna                  ] 
+[ 1 51] [ 0] DSL3                        [Cayenna Rhien            ] 
+[ 1 51] [ 0] Dreamscapes                 [Cayenna Xenophon Whiskey ] 
+[ 1 51] [ 0] Current of Souls            [Cayenna                  ] 
+--------------------------------------------------------------------
+
+Althainia
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+====================================================================
+[Level] [Qt] [Name                     ] [Builder                  ]
+[ 5 35] [ 0] Haon Daran                  [Jenikki                  ] 
+[ 1 51] [ 0] The Coliseum of Death       [Scorn Enthor Diavo Jelica] 
+[ 1 51] [ 0] The Champions Mansion       [Vivienne Scorn           ] 
+[20 51] [ 0] The Ruins of Serpantol      [Slither                  ] 
+[ 1  5] [ 0] Squatter Village            [Taltos                   ] 
+[10 25] [ 0] Thalos                      [Drkside                  ] 
+[15 25] [ 0] Chapel                      [Copper                   ] 
+[ 5 20] [ 0] Holy Grove                  [Alfa                     ] 
+[ 5 10] [ 0] Graveyard                   [Alfa                     ] 
+[30 35] [ 0] Nirvana                     [Fstall                   ] 
+[15 25] [ 0] The Harpy Caves             [Tashio                   ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[20 30] [ 0] Galaxy                      [Doctor Camille           ] 
+[ 7 15] [ 0] The Underground Lake        [Tashio                   ] 
+[20 35] [ 0] Koskun Keep                 [Tashio                   ] 
+[ 5 30] [ 0] Wyvern's Tower              [Tyrst                    ] 
+[ 1  5] [ 0] Faerie Forest               [Tashio                   ] 
+[ 5 30] [ 0] Dragon Tower                [Wench                    ] 
+[ 5 10] [ 0] In the Air                  [Copper                   ] 
+[ 5 20] [ 0] Arachnos                    [Mahatma Joules           ] 
+[10 35] [ 0] Astral Plane                [Andersen                 ] 
+[20 51] [ 0] Ivory Waste                 [Milamber                 ] 
+[ 5 30] [ 0] Elemental Canyon            [Raff                     ] 
+[ 1  5] [ 0] Machine Dreams              [Furey                    ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[15 20] [ 0] A Nomad Village             [Tashio                   ] 
+[10 20] [ 0] Sands of Sorrow             [Anon                     ] 
+[ 5 35] [ 0] The Sand City of Bak'he     [Taltos                   ] 
+[ 5 50] [ 0] Pyramid                     [Andersen                 ] 
+[10 15] [ 0] Troll Den                   [Merc                     ] 
+[10 20] [ 0] Catacombs                   [Raff                     ] 
+[15 25] [ 0] Lokhaer City                [Drkside Taidra           ] 
+[10 30] [ 0] High Tower                  [Skylar                   ] 
+[ 1 51] [ 0] Hall of the Thane           [Atropos Joules           ] 
+[ 1 51] [ 0] Althainia                   [Scorn Diku               ] 
+[ 1 51] [ 0] Ofcol                       [Alfa                     ] 
+[ 5 35] [ 0] New Ofcol                   [Hatchet                  ] 
+[ 1 51] [ 0] Shalonesti Clan Hall        [Crusher Camille Kat      ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 1 51] [ 0] Shalonesti                  [Khamsin Joules Kataraomai] 
+[ 1 51] [ 0] Shalonesti Forest           [Jinx Joules Laika Kanoir ] 
+[ 1 60] [ 0] The Courthouse              [Scorn Vivienne           ] 
+[ 5 15] [ 0] Miden'nir                   [Copper Kanoir            ] 
+[ 1 10] [ 0] Lower Dwarven Kingdom       [Xiola                    ] 
+[ 5 15] [ 0] The Sub-Issue Gladiator A   [Raff Joules Calzam       ] 
+[10 25] [ 0] Dwarven Kingdom             [Anon                     ] 
+[ 1 20] [ 0] Plains                      [Copper                   ] 
+[ 5 20] [ 0] Valley of the Elves         [Hatchet                  ] 
+[ 5 10] [ 0] Haon Dor                    [Diku Joules              ] 
+[20 30] [ 0] House of Naris              [Tashio                   ] 
+[15 25] [ 0] Marsh                       [Generic                  ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 5 15] [ 0] Moria                       [Alfa Laika               ] 
+[ 5 30] [ 0] Sewers                      [Diku Kanoir              ] 
+[ 5 15] [ 0] University of Althainia     [Scorn                    ] 
+[10 35] [ 0] New Thalos                  [Conner  Diudiex Jubbie Jo] 
+[ 8 23] [ 0] Dividing Tunnels            [Solum Tashio             ] 
+[ 0  0] [ 0] Althainia Coastline         [Connor Kanoir            ] 
+[ 1 51] [ 0] Dolund'ir                   [Grokle Joules Kanoir     ] 
+[ 5 51] [ 0] Gareth's Keep               [Diavo                    ] 
+[ 1 51] [ 0] The Temple of the Gray Or   [Scorn Laika              ] 
+[ 0  0] [ 0] NT Kingdom Only Rooms       [Charis Tashio            ] 
+[ 0  0] [ 0] The Vallenwood Grove        [Laika Tashio             ] 
+[ 0  0] [ 0] Althainia Royal Palace      [Vivienne                 ] 
+[ 0  0] [ 0] The Althainian Castle       [Laika                    ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 5 51] [ 0] The Tower of High Sorcery   [Laika Tashio             ] 
+[ 0  0] [ 0] Thaxanos                    [Scrunge Astinus Joules Be] 
+[ 5 10] [ 0] Mount Axpvjib               [Laika Joules             ] 
+[ 5 51] [ 0] Storm Keep                  [Scorn                    ] 
+[25 35] [ 0] Arena of the Bull Dancers   [Jubbie                   ] 
+[ 0  0] [ 0] Thaxanos Kingdom Hall       [Joules Scorn Kyri        ] 
+[ 1 51] [ 0] Algoron Gladiator League    [Scorn Rhien              ] 
+[15 30] [ 0] The Tower of Ashan'juri     [Maalthiir                ] 
+[ 3 10] [ 0] Thaxanos Upper Mines        [Laika                    ] 
+[ 1 51] [ 0] Althainia Prison            [Laika Scorn              ] 
+[ 0  0] [ 0] New Thalos Prison           [Laika Scorn              ] 
+[ 0  0] [ 0] Shalonesti Holding Grove    [Laika Scorn              ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 0  0] [ 0] Thaxanos Workhouse          [Laika Scorn Joules       ] 
+[ 0  0] [ 0] Dolund'ir Dungeon           [Scorn Jubbie Jelica      ] 
+[ 0  0] [ 0] Desert Plains               [Kataraomai Cayenna Xenoph] 
+[ 0 51] [ 0] Shalonesti Trail            [Kanoir                   ] 
+[ 1 10] [ 0] Uxjukopoap Tunnels          [Beliya'al                ] 
+[15 40] [ 0] Underdark Caverns           [Beliya'al                ] 
+[ 5 51] [ 0] Greystoke Manor             [Laika                    ] 
+[25 35] [ 0] The Burial Grounds          [Kyri                     ] 
+[ 1 10] [ 0] Shalonesti Guardhouse       [Taidra                   ] 
+[ 1 51] [ 0] Althainia Merchant Distri   [Scorn                    ] 
+[35 43] [ 0] Desert Raiders              [Fonzi                    ] 
+[ 1 10] [ 0] The Halls of Glory          [Volodya                  ] 
+[ 1 51] [ 0] Abaddon                     [Kyri                     ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[10 15] [ 0] Swampy Bog                  [Kyri                     ] 
+[ 0 51] [ 0] Abaddon Housing             [Kyri                     ] 
+[ 1 51] [ 0] Abaddon Palace              [Kyri                     ] 
+[45 51] [ 0] Abaddon Prison              [Kyri                     ] 
+[ 1 15] [ 0] Kingdom of Aghar            [Kyri                     ] 
+[ 1 15] [ 0] Dwarven Training Camp       [Taidra                   ] 
+[30 35] [ 0] Asylum                      [Taidra Fonzi             ] 
+[ 1 15] [ 0] Coalthen Farms              [Kyri                     ] 
+[ 1 15] [ 0] The Garrison                [Kyri                     ] 
+[ 1 15] [ 0] The Stony Barrens           [Volodya                  ] 
+[15 30] [ 0] Hunting the Sand Wyrm       [Scorn                    ] 
+[15 30] [ 0] The Hedgemaze               [Kyri                     ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+[15 30] [ 0] Sharondaerl Forest          [Taidra                   ] 
+[15 30] [ 0] Le Theatre Macabre          [Asmidiske                ] 
+[15 30] [ 0] Centerforge                 [Nazca                    ] 
+[45 51] [ 0] Silversand Garrison         [Cahlizna                 ] 
+[ 1 51] [ 0] The Brawlin Pits            [Kyri                     ] 
+[25 40] [ 0] The Baewar District         [Kyri                     ] 
+[15 51] [ 0] Desert of Kabir Abyad       [Cayenna                  ] 
+[10 30] [ 0] The Enchanted Bakery        [Atlantos                 ] 
+[10 20] [ 0] Grand Laureate Joust        [Croatoan                 ] 
+[45 51] [ 0] The Roving Gypsies          [Kyri                     ] 
+[43 51] [ 0] Tower of the Djinn          [Ampersand                ] 
+[45 51] [ 0] Ghost Lake                  [Atlantos                 ] 
+[15 20] [ 0] Haunted Creek               [Rhythm                   ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 1 51] [ 0] Abaddon Housing 2           [Kyri                     ] 
+[30 50] [ 0] Arvonden Keep               [Alasdair                 ] 
+[ 1 51] [ 0] The Grand Temple of Fatal   [Kyri                     ] 
+[ 1 51] [ 0] The Eclipsian Sacrament     [Kyri                     ] 
+[ 1 51] [ 0] Temple of Kantilles         [Kyri                     ] 
+[ 1 51] [ 0] Bloodlust Outpost           [Kyri                     ] 
+[51 51] [ 0] The Vault Of Coins          [Tashio                   ] 
+[15 20] [ 0] The Miden'nir Trail         [Tashio                   ] 
+[25 30] [ 0] Hillstone Manor             [Cacophony Tashio Zypher  ] 
+[36 45] [ 0] The Great Mill              [Xenophon                 ] 
+[ 1 51] [ 0] The Moonlily Field          [Tritoch Rhien            ] 
+[ 1 51] [ 0] A Sinkhole                  [Cayenna                  ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[20 51] [ 0] Blood River                 [Cayenna                  ] 
+[40 40] [ 0] A Deeply Cratered Sinkhol   [Cayenna Xenophon         ] 
+[20 30] [ 0] A Damned River of Blood     [Cayenna Xenophon         ] 
+[20 30] [ 0] The Sunken Temple of Ara    [Nazca Tarabella          ] 
+[ 1 51] [ 0] Chambers of Pronounceme   [Cayenna                  ] 
+[ 1 51] [ 0] The Basilica of Cliath      [Cayenna                  ] 
+[ 1 51] [ 0] Gladithilnim                [Cayenna                  ] 
+--------------------------------------------------------------------
+
+Arkania
+====================================================================
+[Level] [Qt] [Name                     ] [Builder                  ]
+[25 51] [ 0] Enchanted Forest            [Enchantra                ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[50 51] [ 0] The Lost Temples            [Scorn                    ] 
+[30 51] [ 0] The Siege                   [Handel                   ] 
+[30 40] [ 0] Church of Stars             [Camille                  ] 
+[17 40] [ 0] Hidden Temple of Evil       [Aldur                    ] 
+[ 0 35] [ 0] Verminasia                  [Enchantra Alack          ] 
+[ 0 35] [ 0] Verminasia Palace           [Enchantra                ] 
+[ 1 51] [ 0] Balifore                    [Vivienne Laika           ] 
+[43 51] [ 0] "The Body"                  [Slither                  ] 
+[ 5 15] [ 0] Gnome Village               [Vougon                   ] 
+[15 30] [ 0] Lador's Castle              [Rocket                   ] 
+[10 30] [ 0] Realm of Illusion           [Khamsin                  ] 
+[ 1 51] [ 0] Arkane                      [Scorn Jinx Crusher Laika ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[20 30] [ 0] Haunted Tower               [Vivienne                 ] 
+[15 35] [ 0] Thief's Stronghold          [Jinx                     ] 
+[25 51] [ 0] The Great Forest            [Jinx Rocket              ] 
+[40 51] [ 0] Temple of the Undead        [Jinx                     ] 
+[ 1 51] [ 0] The Kender Forest           [Scorn Jinx Alack Rovac   ] 
+[ 0  0] [ 0] Arkania                     [Connor Joules            ] 
+[ 0  0] [ 0] Verm Kindgom Only           [Atropos                  ] 
+[ 0  0] [ 0] A place of rest             [Laika Milamber Kasmund La] 
+[ 0  0] [ 0] The Haven of Arkane         [Laika                    ] 
+[ 0  0] [ 0] Marauders Stronghold        [Charis                   ] 
+[ 5 51] [ 0] Tower of High Sorcery in    [Vivienne Tashio          ] 
+[ 1  5] [ 0] Woodland Village            [Laika                    ] 
+[45 51] [ 0] The Coven                   [Gryphon                  ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[15 20] [ 0] The Bastille                [Xanic Kyri               ] 
+[ 0  0] [ 0] Timor's Seed Shack          [Rhien                    ] 
+[ 0  0] [ 0] Southlands of Arkania       [Friezen                  ] 
+[ 0  0] [ 0] Circus Quest Area           [Xanic Kyri Calzam        ] 
+[30 40] [ 0] Verminasia Sewers           [Calzam Kyri              ] 
+[ 1  5] [ 0] Orchard                     [Calzam Nazca             ] 
+[ 0  0] [ 0] Arkane Prison               [Laika Scorn              ] 
+[ 0  0] [ 0] Verminasia Dungeon          [Scorn Nazca              ] 
+[ 0  0] [ 0] Balifore Lockup and Free    [Scorn Joules             ] 
+[ 0 35] [ 0] Verminasia Forest           [Joules                   ] 
+[ 1 51] [ 0] Bloodlust Dungeon           [Nazca                    ] 
+[ 5 51] [ 0] The Wrath of Justice        [Scorn Viv Kat            ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 5 20] [ 0] Glassrose Mansion           [Joules                   ] 
+[45 51] [ 0] Ancient Forest              [Maalthiir                ] 
+[ 0  0] [ 0] Eclipse Clan Hall           [Xiola                    ] 
+[ 5 51] [ 0] The Arkanian Arena          [Kyri                     ] 
+[43 51] [ 0] Gahboom Hill                [Joules  Cahlizna         ] 
+[ 8 15] [ 0] Gnomish Aviary              [Melodie                  ] 
+[31 51] [ 0] Keep of the Avatar          [Calzam Kyri              ] 
+[ 1 25] [ 0] Arkane Sewers               [Kanoir Desmothius        ] 
+[45 51] [ 0] Keep of the Avatars Dunge   [Kyri                     ] 
+[43 51] [ 0] Cursed Caverns              [Tetsuko Cayenna          ] 
+[ 5 15] [ 0] The Farmstead               [Cahlizna                 ] 
+[ 0  0] [ 0] Fort Ironclad Arena         [Kyri                     ] 
+[ 0  0] [ 0] Soldier's Valley            [Kyri Melodie             ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 1 51] [ 0] Fort Ironclad               [Kyri Joules Nazca        ] 
+[ 5 15] [ 0] The Training Ground         [Joules                   ] 
+[ 1 51] [ 0] Verminasia Merchant Distr   [Scorn                    ] 
+[23 33] [ 0] Within the Great Tree       [Dekaios                  ] 
+[ 1 51] [ 0] Fort Ironclad Merchant Di   [Curumo                   ] 
+[40 51] [ 0] A Death Garden              [Cayenna                  ] 
+[45 51] [ 0] Gypsy Camp                  [Kyri                     ] 
+[ 0  0] [ 0] Arkania Roadway             [Cahlizna                 ] 
+[25 40] [ 0] Freak Show                  [Lazlo                    ] 
+[10 15] [ 0] Mystic Crystal Fields       [Cahlizna                 ] 
+[ 1 15] [ 0] Old Lanstone Village        [Cayenna                  ] 
+[ 1 15] [ 0] Mired Banks                 [Dekaios                  ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[15 30] [ 0] The Training Labyrinth      [Joules                   ] 
+[15 30] [ 0] Occultist Hall of Experim   [Jaehea                   ] 
+[15 30] [ 0] The Mystic Vaults           [Volodya                  ] 
+[ 5 15] [ 0] Verminasia Bastille         [Cahlizna                 ] 
+[13 20] [ 0] Centaur Village             [Fallwith                 ] 
+[45 51] [ 0] Totum's Revenge             [Kyri                     ] 
+[ 1 51] [ 0] Arkane Trade Road           [Pimento                  ] 
+[ 1 51] [ 0] Azure Tower                 [Atlantos                 ] 
+[20 30] [ 0] Sulphur Mines               [Derigimus                ] 
+[25 30] [ 0] The Bandit Camp             [Grepmore                 ] 
+[20 30] [ 0] The Vigilante Camp          [Quidam                   ] 
+[ 1 51] [ 0] Stronghold of Raije         [Kyri                     ] 
+[ 1 51] [ 0] Temple of Sebatis           [Kyri                     ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 1 51] [ 0] The Botanic Monastery       [Kyri Cayenna             ] 
+[ 1 51] [ 0] Umbrus Caelum - The Black   [Xenophon Tritoch Cayenna ] 
+[30 40] [ 0] Winterhaven Funeral Home    [Shrek                    ] 
+[ 1 51] [ 0] Grove of Penumbra           [Kyri                     ] 
+[10 25] [ 0] Bloodshackle Fortress       [Joules Cahlizna Zypher   ] 
+[ 1 51] [ 0] The Veterans of the Coali   [Irrylath                 ] 
+[30 40] [ 0] The Groves                  [Rhien                    ] 
+[ 1 51] [ 0] Arkanian Orphanage          [Cayenna                  ] 
+[ 1 51] [ 0] A Surging Flow of Viscid    [Cayenna                  ] 
+[40 51] [ 0] A Staunched Flow of Visci   [Cayenna Xenophon         ] 
+[51 51] [ 0] The Blind Prince's Court    [Tritoch                  ] 
+[51 51] [ 0] A Blazing Aurora        [Xenophon                 ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[32 36] [ 0] Amethyst Falls              [Cahlizna                 ] 
+[ 1 51] [ 0] Mount Levinox               [Tritoch                  ] 
+[ 1 51] [ 0] Celestial Temple of Dra   [Cayenna                  ] 
+[ 5 51] [ 0] The Verminasian Amphithea   [Cayenna                  ] 
+--------------------------------------------------------------------
+
+Icewall
+====================================================================
+[Level] [Qt] [Name                     ] [Builder                  ]
+[43 51] [ 0] Jovar                       [Estrelon                 ] 
+[25 51] [ 0] The Savage Land             [Caligula                 ] 
+[ 0  0] [ 0] Icewall                     [Connor Rime              ] 
+[25 35] [ 0] The Secret Valley           [Rummor                   ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 5 35] [ 0] Mahn-Tor                    [Chris                    ] 
+[ 1 10] [ 0] The Ice Caverns             [Solum                    ] 
+[ 0  0] [ 0] The Ice Spire               [Ator                     ] 
+[30 51] [ 0] Frostania                   [Vivienne                 ] 
+[25 50] [ 0] Tower of the Four Winds     [Milamber                 ] 
+[ 1 51] [ 0] Ganth                       [Maalthiir  Lazlo Silic Zy] 
+[ 5 51] [ 0] The Tower of High Sorcery   [Xiola Tashio             ] 
+[ 1 51] [ 0] The Keep of Ganth           [Ketrill Maalthiir        ] 
+[ 1 45] [ 0] Gruntz                      [Grokle Avachel           ] 
+[ 0  0] [ 0] Gruntz Housing              [Grokle Jubbie            ] 
+[ 0  0] [ 0] Mountain Pass               [Joules                   ] 
+[10 20] [ 0] Icewall Trail               [Astinus                  ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[30 40] [ 0] Abandoned Mine              [Bucar                    ] 
+[45 51] [ 0] Ice Goblins                 [Grokle                   ] 
+[30 51] [ 0] Forbidden Forest            [Abadabadat               ] 
+[10 51] [ 0] Ganth Training Grounds      [Grokle                   ] 
+[ 5 35] [ 0] The Blackwood Forest        [Kyri Xanic               ] 
+[20 51] [ 0] The Blood Sea               [Laika                    ] 
+[ 1 51] [ 0] The Wayfarer's Inn          [Maalthiir                ] 
+[45 51] [ 0] Crystal Monastery           [Jubbie                   ] 
+[ 1  3] [ 0] Icewall Tunnels             [Joules                   ] 
+[15 25] [ 0] Ice Prison                  [Joules                   ] 
+[35 51] [ 0] Druid Stones and Faerie R   [Kyri Laika Xanic         ] 
+[15 30] [ 0] Yaenni Refuge               [Ozymandius Jelica        ] 
+[ 5 15] [ 0] Highland Trails             [Laika                    ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[14 25] [ 0] Dragonspire Peak            [Maalthiir                ] 
+[ 1 51] [ 0] Frozen Caves                [Joules                   ] 
+[ 0  0] [ 0] Dungeon Maze of Ganth       [Laika Scorn              ] 
+[ 0  0] [ 0] Nordmaar Bastion            [Laika Scorn              ] 
+[ 1 51] [ 0] Ganth Perimeter Roadways    [Joules                   ] 
+[ 0  0] [ 0] Nordmaar Trails             [Joules                   ] 
+[ 1 51] [ 0] The Dragon Vale             [Scorn Jim Laika          ] 
+[30 40] [ 0] Jixpk Village               [Joules                   ] 
+[ 1 51] [ 0] The Citadel                 [Curumo                   ] 
+[45 51] [ 0] The Verdant Wood            [Nazca Ehl'din            ] 
+[ 1 51] [ 0] Darkonin                    [Grokle Zzyzk Nazca       ] 
+[ 1 51] [ 0] Darkonin Palace             [Grokle Nazca             ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 1 51] [ 0] The Great Hall of Darkoni   [Grokle Nazca Zzyzk       ] 
+[ 0  0] [ 0] Darkonin Prison             [Scorn Jubbie Grokle      ] 
+[ 4  8] [ 0] The Lost Cave               [Istiak                   ] 
+[ 1 15] [ 0] Yinn Encampment             [Zypher                   ] 
+[ 1 15] [ 0] The Bre Amaethdai           [Jaehea                   ] 
+[43 51] [ 0] The Village of Gaarenborg   [Kyri                     ] 
+[ 1 15] [ 0] The Ice Crystal Caverns     [Nazca                    ] 
+[15 30] [ 0] Highland Moors              [Kyri                     ] 
+[15 30] [ 0] Icewall Battlefield         [Zypher                   ] 
+[45 51] [ 0] The Venerable Forest        [Taidra                   ] 
+[15 30] [ 0] Odurutt Iulzus uh Loltuau   [Harini                   ] 
+[ 1 51] [ 0] Highland Mausoleum          [Taidra                   ] 
+[10 20] [ 0] The Forgotten Cave          [Juniper                  ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 1 51] [ 0] Temple of Cliath            [Kyri                     ] 
+[ 1 51] [ 0] Hrentun's Temple - Mencia   [Kyri                     ] 
+[ 1 51] [ 0] Basilica of the Fallen Su   [Kyri                     ] 
+[40 45] [ 0] The Telkec-tegaar           [Cahlizna                 ] 
+[15 51] [ 0] Nordmaar Tunnels            [Cayenna                  ] 
+--------------------------------------------------------------------
+
+Tropica
+====================================================================
+[Level] [Qt] [Name                     ] [Builder                  ]
+[ 0  0] [ 0] Tropica                     [Connor Solum Rummor Maalt] 
+[ 5 10] [ 0] The Rainforest              [Laika                    ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[30 51] [ 0] Enchantress Tower           [Laika                    ] 
+[10 30] [ 0] Temple of Good              [Sarzec                   ] 
+[10 20] [ 0] Tropical Village            [Rhien                    ] 
+[23 35] [ 0] Sluss'i Monastery           [Maalthiir                ] 
+[30 45] [ 0] Mebn Ehlweb                 [Joules                   ] 
+[10 51] [ 0] Haven                       [Xanic Kyri               ] 
+[20 40] [ 0] The Lost Pyramid            [Tashio Jubbie            ] 
+[40 51] [ 0] A Lost Catacomb             [Tashio                   ] 
+[40 51] [ 0] Crystal Bay                 [Rhien                    ] 
+[43 51] [ 0] Sluss'i Tunnels             [Maalthiir                ] 
+[ 1  5] [ 0] Tropica Trails              [Joules                   ] 
+[35 45] [ 0] The Savanna                 [Jubbie                   ] 
+[ 1 51] [ 0] Magma Pits                  [Diavo                    ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[43 51] [ 0] Misery Keep                 [Scorn                    ] 
+[15 25] [ 0] Trative Mountains           [Atropos Laika Kyri       ] 
+[35 45] [ 0] Duin Tol                    [Joules                   ] 
+[ 1 51] [ 0] Forgotten Village           [Jaehea                   ] 
+[10 20] [ 0] Valley of Bones             [Melodie                  ] 
+[51 51] [ 0] Acrid Tunnels               [Gragos                   ] 
+[10 20] [ 0] The Brrerhahrr Pridelands   [Nazca                    ] 
+[43 51] [ 0] Realm Of The Endless        [Delirium                 ] 
+[30 35] [ 0] New Zyra                    [Terpsichore              ] 
+[20 30] [ 0] Ephrylian Estate            [Vylenzia                 ] 
+[ 1 51] [ 0] The Warp                    [Paticus                  ] 
+[20 30] [ 0] Magical Farm                [Sunny                    ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[20 25] [ 0] Pixie Meadow                [Tritoch                  ] 
+[51 51] [ 0] The Den of the Phoenix      [Tritoch Tashio           ] 
+[20 25] [ 0] Nevinost Garden             [Whiskey                  ] 
+--------------------------------------------------------------------
+
+Ships
+====================================================================
+[Level] [Qt] [Name                     ] [Builder                  ]
+[ 1 51] [ 0] The Prowler                 [Ozymandius               ] 
+[ 0  0] [ 0] The Silverwind              [Ozymandius               ] 
+[ 0  0] [ 0] The Constellation           [Ozymandius               ] 
+[ 1 51] [ 0] The Plague                  [Ozymandius               ] 
+[ 1 51] [ 0] The Requiem                 [Ozymandius               ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 0 51] [ 0] The Dominion                [Kyri                     ] 
+--------------------------------------------------------------------
+
+Neocean
+====================================================================
+[Level] [Qt] [Name                     ] [Builder                  ]
+[ 0  0] [ 0] Puxnu'kiza ip Kupux         [Connor Deracs Laika      ] 
+[45 51] [ 0] Glonnoil Fjord              [Kyri                     ] 
+[15 40] [ 0] The Crystal Spire           [Atlantos                 ] 
+--------------------------------------------------------------------
+
+Nwocean
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+====================================================================
+[Level] [Qt] [Name                     ] [Builder                  ]
+[ 0  0] [ 0] Beleg'luin Aelin            [Connor Deracs Laika      ] 
+[ 5 25] [ 0] Prismatic Reef              [Xiangzhi                 ] 
+--------------------------------------------------------------------
+
+Seocean
+====================================================================
+[Level] [Qt] [Name                     ] [Builder                  ]
+[30 51] [ 0] The Stygian Sea             [Gothic Vivienne Crusher  ] 
+[ 0  0] [ 0] Roully Bab Binb             [Connor Deracs Laika      ] 
+[25 35] [ 0] Ruins of Areth-Va           [Tashio                   ] 
+[ 1 51] [ 0] Mountain Path               [Tashio                   ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 1 51] [ 0] Zaven Fishing Village       [Tashio                   ] 
+[10 15] [ 0] Loodvich's Dungeon          [Tashio                   ] 
+[ 5 10] [ 0] The Caverns                 [Tashio                   ] 
+[10 15] [ 0] Faeron Wood                 [Tashio                   ] 
+[ 1 51] [ 0] Lost Clouds                 [Diavo Kyri               ] 
+[45 51] [ 0] Lost Lands of Kazaxda       [Kyri                     ] 
+[20 30] [ 0] Grell Hunters               [Taidra                   ] 
+[45 51] [ 0] Crimson Defiant             [Gragos                   ] 
+--------------------------------------------------------------------
+
+Swocean
+====================================================================
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[Level] [Qt] [Name                     ] [Builder                  ]
+[ 0  0] [ 0] Lutsa Rusul                 [Connor Deracs Laika      ] 
+[ 0  0] [ 0] Volcano Island              [Sarzec                   ] 
+[30 40] [ 0] Baaren Gaer                 [Gryphon                  ] 
+[20 35] [ 0] White Moon Isle             [Joules                   ] 
+[20 30] [ 0] Volcanic Ridge              [Joules                   ] 
+[ 0  0] [ 0] Taidra Memorial Stadium     [Scorn                    ] 
+[45 51] [ 0] Dreadwood Forest            [Malkavia Cayenna         ] 
+--------------------------------------------------------------------
+
+Ctrocean
+====================================================================
+[Level] [Qt] [Name                     ] [Builder                  ]
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 0  0] [ 0] Arsataw Yaa                 [Connor Deracs Laika      ] 
+[30 51] [ 0] Sea Castle                  [Rhien                    ] 
+--------------------------------------------------------------------
+
+Shokono
+====================================================================
+[Level] [Qt] [Name                     ] [Builder                  ]
+[40 51] [ 0] Shi'ku Noria (The Thieve'   [Rhien                    ] 
+[ 3  7] [ 0] The Shonoko Coast           [Jubbie                   ] 
+[10 35] [ 0] The Kurotaka Mountain Ran   [Laika                    ] 
+[12 35] [ 0] The Shrine of Water         [Milamber                 ] 
+[ 0  0] [ 0] The Rice Fields             [Joules                   ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 1 51] [ 0] Yotanoko Trail              [Gryphon                  ] 
+[ 5 10] [ 0] Tokaido                     [Astinus Laika            ] 
+[43 51] [ 0] The Ogre Magi               [Grokle                   ] 
+[ 1 51] [ 0] Enchanted Bamboo Forest     [Jijagerundi              ] 
+[10 20] [ 0] Oriental Village            [Tashio                   ] 
+[ 5 10] [ 0] Misty Woods                 [Calzam                   ] 
+[40 51] [ 0] Bamboo Temple Maze          [Calzam                   ] 
+[ 1 51] [ 0] Shokono Housing             [Jelica                   ] 
+[ 1 51] [ 0] Dojia Housing               [Jelica Kanoir            ] 
+[ 1 51] [ 0] Shokono                     [Jijagerundi Laika Scorn G] 
+[ 1 51] [ 0] Dojia                       [Scorn Jelica Laika       ] 
+[10 20] [ 0] Shokono's Carp Garden       [Nagarjuna                ] 
+[ 0  0] [ 0] Dojia Empire Stronghold     [Laika                    ] 
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 0  0] [ 0] Dojia Imperial Palace       [Gaidin Laika             ] 
+[ 1 51] [ 0] Shokono Trails and Roads    [Laika                    ] 
+[43 51] [ 0] Thorn Keep                  [Scorn                    ] 
+[ 5 10] [ 0] The Spirit Gardens          [Syrestina Tetsuko        ] 
+[43 51] [ 0] Algoron Threadworks         [Gragos                   ] 
+[35 45] [ 0] Nezumi Hamlet               [Tashio                   ] 
+[20 40] [ 0] Shokonese Menagerie         [Tarabella                ] 
+--------------------------------------------------------------------
+
+Nocean
+====================================================================
+[Level] [Qt] [Name                     ] [Builder                  ]
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+[ 1 51] [ 0] Sh'lanira Belian            [Rhien Joules Jijagerundi ] 
+[30 40] [ 0] Sea Devil Foray             [Rovac                    ] 
+--------------------------------------------------------------------
+
+Socean
+====================================================================
+[Level] [Qt] [Name                     ] [Builder                  ]
+[ 0  0] [ 0] Tirixin Belian              [Rhien Joules Jubbie Jelic] 
+[35 51] [ 0] Sunken Junk                 [Grokle Jelica            ] 
+[ 1 51] [ 0] Dead Man's Cove             [Kyri                     ] 
+--------------------------------------------------------------------
+
+Underworld
+
+[ (C)ontinue, (R)efresh, (B)ack, (H)elp, (E)nd, (T)op, (Q)uit, or RETURN ]: 
+
+====================================================================
+[Level] [Qt] [Name                     ] [Builder                  ]
+--------------------------------------------------------------------
