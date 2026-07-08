@@ -39,6 +39,8 @@ tt++ ~/.tintin/dsl.tin
 - `docs/paths-and-aliases.md` — travel aliases, including the Room of Healing path.
 - `docs/prompt-and-colors.md` — DSL prompt variables and color-coded prompt examples.
 - `docs/tintin-release-notes.md` — TinTin++ release, install, and safety notes from the check we discussed.
+- `docs/areas-index.md` — parsed DSL area index with level-5 planning notes.
+- `data/raw/areas-2026-07-07.txt` — raw pasted DSL area listing.
 - `characters/yttawstp/2026-07-07-score.md` — Yttawstp level 5 Yinn Mage score snapshot.
 
 ## Current preferred setup
@@ -71,6 +73,25 @@ Silver: 1827
 ```
 
 See: `characters/yttawstp/2026-07-07-score.md`
+
+## Area planning
+
+The captured area listing was parsed into **416 area entries** across DSL regions.
+
+Level-5 planning for Yttawstp:
+
+```text
+Level-5-accessible entries: 175
+Tight beginner entries, max level <= 15: 44
+Nearby low-level entries, max level 16-25: 7
+```
+
+See:
+
+```text
+docs/areas-index.md
+data/raw/areas-2026-07-07.txt
+```
 
 ## Room of Healing path
 
