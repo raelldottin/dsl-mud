@@ -39,6 +39,7 @@ tt++ ~/.tintin/dsl.tin
 - `docs/paths-and-aliases.md` — travel aliases, including the Room of Healing path.
 - `docs/prompt-and-colors.md` — DSL prompt variables and color-coded prompt examples.
 - `docs/tintin-release-notes.md` — TinTin++ release, install, and safety notes from the check we discussed.
+- `docs/resources.md` — useful external DSL research resources, including Shattered Archive.
 - `docs/areas-index.md` — parsed DSL area index with level-5 planning notes.
 - `data/raw/areas-2026-07-07.txt` — raw pasted DSL area listing.
 - `characters/yttawstp/2026-07-07-score.md` — Yttawstp level 5 Yinn Mage score snapshot.
@@ -93,6 +94,16 @@ docs/areas-index.md
 data/raw/areas-2026-07-07.txt
 ```
 
+## Research resources
+
+Shattered Archive is now tracked as a key external source:
+
+```text
+https://shatteredarchive.com
+```
+
+Use it for directions, items, rooms, races, classes, trainers, and player guides. See: `docs/resources.md`.
+
 ## Room of Healing path
 
 Original path:
@@ -136,6 +147,7 @@ Example shape:
 
 - Official DSL site: <https://www.dsl-mud.org/>
 - DSL play page: <https://www.dsl-mud.org/playdsl/playdsl.asp>
+- Shattered Archive: <https://shatteredarchive.com>
 - TinTin++: <https://tintin.mudhalla.net/>
 - Homebrew TinTin++ formula: <https://formulae.brew.sh/formula/tintin>
 - TinTin++ releases: <https://github.com/scandum/tintin/releases>
