@@ -1,83 +1,211 @@
 #nop ============================================================
-#nop DSL / Dark and Shattered Lands TinTin++ starter profile
-#nop Start with: tt++ ~/.tintin/dsl.tin
+#nop DSL / Dark and Shattered Lands TinTin++ profile
+#nop Start with: tt++ configs/dsl.tin
+#nop Copy to: ~/.tintin/dsl.tin
 #nop ============================================================
 
-#nop --- Terminal / display comfort
-#config {CHARSET} {UTF-8}
-#config {COLOR MODE} {256}
-#config {BUFFER SIZE} {100000}
-#config {SCROLL LOCK} {ON}
-#config {COMMAND ECHO} {OFF}
-
 #nop --- Keep typed commands visible while game output scrolls
-#split 0 1
-
-#nop --- Movement quality of life
-#config {SPEEDWALK} {ON}
+#SPLIT 0 1
 
 #nop --- Logging
-#log timestamp {%Y-%m-%d %H:%M:%S}
-#log append {~/.tintin/logs/dsl.log}
+#LOG timestamp {%Y-%m-%d %H:%M:%S}
+#LOG append {~/.tintin/logs/dsl.log}
 
 #nop --- Connect
-#session {dsl} {dsl-mud.org} {4000}
+#SESSION {dsl} {dsl-mud.org} {4000}
 
-#nop --- Basic game aliases
-#alias {l}  {look}
-#alias {i}  {inventory}
-#alias {eq} {equipment}
-#alias {sc} {score}
-#alias {st} {stand}
-#alias {re} {rest}
-#alias {q}  {quit}
+#nop ============================================================
+#nop Aliases
+#nop ============================================================
 
-#nop --- Direction aliases
-#alias {n}  {north}
-#alias {s}  {south}
-#alias {e}  {east}
-#alias {w}  {west}
-#alias {u}  {up}
-#alias {d}  {down}
-#alias {ne} {northeast}
-#alias {nw} {northwest}
-#alias {se} {southeast}
-#alias {sw} {southwest}
-
-#nop --- Room of Healing path
-#nop Original: d|se|e|e|e|n|e|e|e|e|open east|e|e|s
-#alias {roomofheal}    {d;se;e;e;e;n;e;e;e;e;open east;e;e;s}
-#alias {roomofhealing} {roomofheal}
-#alias {toheal}        {roomofheal}
-#alias {healroom}      {roomofheal}
-#alias {roh}           {roomofheal}
-
-#nop --- Safer slower Room of Healing path if fast commands get dropped
-#alias {tohealslow} {
-  d;
-  #delay {0.2} {se};
-  #delay {0.4} {e};
-  #delay {0.6} {e};
-  #delay {0.8} {e};
-  #delay {1.0} {n};
-  #delay {1.2} {e};
-  #delay {1.4} {e};
-  #delay {1.6} {e};
-  #delay {1.8} {e};
-  #delay {2.0} {open east};
-  #delay {2.2} {e};
-  #delay {2.4} {e};
-  #delay {2.6} {s}
+#ALIAS {d}
+{
+    down
 }
 
-#nop --- Local help for remembered routes
-#alias {paths} {
-  #showme {Travel aliases:};
-  #showme {  toheal / roh / roomofheal = Room of Healing};
-  #showme {  tohealslow               = slower Room of Healing route}
+#ALIAS {detect}
+{
+    cast 'detect magic';
+    cast 'detect invis'
 }
 
-#nop --- Prompt note
-#nop DSL uses literal color codes like {R and {x in the game prompt.
-#nop Because TinTin++ also uses braces for its own syntax, paste color prompts
-#nop directly into DSL first. See docs/prompt-and-colors.md.
+#ALIAS {e}
+{
+    east
+}
+
+#ALIAS {eq}
+{
+    equipment
+}
+
+#ALIAS {i}
+{
+    inventory
+}
+
+#ALIAS {l}
+{
+    look
+}
+
+#ALIAS {n}
+{
+    north
+}
+
+#ALIAS {ne}
+{
+    northeast
+}
+
+#ALIAS {nw}
+{
+    northwest
+}
+
+#ALIAS {q}
+{
+    quit
+}
+
+#ALIAS {re}
+{
+    rest
+}
+
+#ALIAS {run1}
+{
+    d;
+    se;
+    e;
+    e;
+    e;
+    n;
+    e;
+    e;
+    e;
+    e;
+    open east;
+    e;
+    e;
+    s
+}
+
+#ALIAS {run1slow}
+{
+    d;
+    #DELAY {0.2} {se};
+    #DELAY {0.4} {e};
+    #DELAY {0.6} {e};
+    #DELAY {0.8} {e};
+    #DELAY {1.0} {n};
+    #DELAY {1.2} {e};
+    #DELAY {1.4} {e};
+    #DELAY {1.6} {e};
+    #DELAY {1.8} {e};
+    #DELAY {2.0} {open east};
+    #DELAY {2.2} {e};
+    #DELAY {2.4} {e};
+    #DELAY {2.6} {s}
+}
+
+#ALIAS {run2slow}
+{
+    d;
+    #DELAY {0.5} {southeast};
+    #DELAY {1.0} {e};
+    #DELAY {1.5} {s};
+    #DELAY {2.0} {s};
+    #DELAY {2.5} {s};
+    #DELAY {3.0} {w};
+    #DELAY {3.5} {w};
+    #DELAY {4.0} {w};
+    #DELAY {4.5} {n};
+    #DELAY {5.0} {n};
+    #DELAY {5.5} {n};
+    #DELAY {6.0} {n};
+    #DELAY {6.5} {n};
+    #DELAY {7.0} {n};
+    #DELAY {7.5} {e};
+    #DELAY {8.0} {e};
+    #DELAY {8.5} {n};
+    #DELAY {9.0} {w};
+    #DELAY {9.5} {u}
+}
+
+#ALIAS {s}
+{
+    south
+}
+
+#ALIAS {sc}
+{
+    score
+}
+
+#ALIAS {se}
+{
+    southeast
+}
+
+#ALIAS {st}
+{
+    stand
+}
+
+#ALIAS {sw}
+{
+    southwest
+}
+
+#ALIAS {u}
+{
+    up
+}
+
+#ALIAS {w}
+{
+    west
+}
+
+#nop ============================================================
+#nop Config
+#nop ============================================================
+
+#CONFIG {BUFFER SIZE} {100000}
+#CONFIG {CHARSET} {UTF-8}
+#CONFIG {COLOR MODE} {256}
+#CONFIG {COLOR PATCH} {OFF}
+#CONFIG {COMMAND COLOR} {\e[0;37m}
+#CONFIG {COMMAND ECHO} {OFF}
+#CONFIG {COMPACT} {OFF}
+#CONFIG {HISTORY SIZE} {1000}
+#CONFIG {LOG MODE} {RAW}
+#CONFIG {MOUSE} {OFF}
+#CONFIG {PACKET PATCH} {AUTO OFF}
+#CONFIG {REPEAT CHAR} {!}
+#CONFIG {REPEAT ENTER} {OFF}
+#CONFIG {SCREEN READER} {OFF}
+#CONFIG {SCROLL LOCK} {ON}
+#CONFIG {SPEEDWALK} {ON}
+#CONFIG {TELNET} {ON}
+#CONFIG {VERBATIM} {OFF}
+#CONFIG {VERBATIM CHAR} {\}
+#CONFIG {VERBOSE} {OFF}
+#CONFIG {WORDWRAP} {ON}
+
+#nop ============================================================
+#nop Path directions
+#nop ============================================================
+
+#PATHDIR {d} {u} {32}
+#PATHDIR {e} {w} {2}
+#PATHDIR {n} {s} {1}
+#PATHDIR {ne} {sw} {3}
+#PATHDIR {nw} {se} {9}
+#PATHDIR {s} {n} {4}
+#PATHDIR {se} {nw} {6}
+#PATHDIR {sw} {ne} {12}
+#PATHDIR {u} {d} {16}
+#PATHDIR {w} {e} {8}
