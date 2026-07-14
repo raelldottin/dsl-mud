@@ -4,15 +4,15 @@
 #nop Copy to: ~/.tintin/dsl.tin
 #nop ============================================================
 
+#nop Load aliases and settings into the global startup session first.
+#nop New and reconnected DSL sessions inherit these settings.
+
 #nop --- Keep typed commands visible while game output scrolls
 #SPLIT 0 1
 
 #nop --- Logging
 #LOG timestamp {%Y-%m-%d %H:%M:%S}
 #LOG append {~/.tintin/logs/dsl.log}
-
-#nop --- Connect
-#SESSION {dsl} {dsl-mud.org} {4000}
 
 #nop ============================================================
 #nop Aliases
@@ -72,6 +72,20 @@
 #ALIAS {re}
 {
     rest
+}
+
+#nop --- Reconnect to DSL
+#nop Switch to the global session before destroying the old DSL session.
+#ALIAS {reconnect}
+{
+    #GTS;
+    #ZAP {dsl};
+    #DELAY {0.5} {#SESSION {dsl} {dsl-mud.org} {4000}}
+}
+
+#ALIAS {rc}
+{
+    reconnect
 }
 
 #ALIAS {run1}
@@ -209,3 +223,6 @@
 #PATHDIR {sw} {ne} {12}
 #PATHDIR {u} {d} {16}
 #PATHDIR {w} {e} {8}
+
+#nop --- Connect after global aliases and settings are loaded
+#SESSION {dsl} {dsl-mud.org} {4000}
