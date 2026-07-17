@@ -1,11 +1,7 @@
 #nop ============================================================
 #nop DSL / Dark and Shattered Lands TinTin++ profile
-#nop Start with: tt++ configs/dsl.tin
-#nop Copy to: ~/.tintin/dsl.tin
+#nop Start with: tt++ ~/.tintin/dsl.tin
 #nop ============================================================
-
-#nop Load aliases and settings into the global startup session first.
-#nop New and reconnected DSL sessions inherit these settings.
 
 #nop --- Keep typed commands visible while game output scrolls
 #SPLIT 0 1
@@ -13,6 +9,9 @@
 #nop --- Logging
 #LOG timestamp {%Y-%m-%d %H:%M:%S}
 #LOG append {~/.tintin/logs/dsl.log}
+
+#nop --- Connect
+#SESSION {dsl} {dsl-mud.org} {4000}
 
 #nop ============================================================
 #nop Aliases
@@ -72,20 +71,6 @@
 #ALIAS {re}
 {
     rest
-}
-
-#nop --- Reconnect to DSL
-#nop Switch to the global session before destroying the old DSL session.
-#ALIAS {reconnect}
-{
-    #GTS;
-    #ZAP {dsl};
-    #DELAY {0.5} {#SESSION {dsl} {dsl-mud.org} {4000}}
-}
-
-#ALIAS {rc}
-{
-    reconnect
 }
 
 #ALIAS {run1}
@@ -183,6 +168,76 @@
     west
 }
 
+#ALIAS {levelup}
+{
+    enter alth;
+    w;
+    s;
+    s;
+    sw;
+    w;
+    sw;
+    w;
+    w;
+    w;
+    n;
+    n;
+    w;
+    w;
+    n;
+    n;
+    n;
+    e;
+    s;
+    e;
+    e;
+    e;
+    e;
+    e;
+    e;
+    n;
+    n;
+    w;
+    w;
+    s;
+    d
+}
+
+#ALIAS {levelupslow}
+{
+    enter alth;
+    #DELAY {0.5} {w};
+    #DELAY {1.0} {s};
+    #DELAY {1.5} {s};
+    #DELAY {2.0} {sw};
+    #DELAY {2.5} {w};
+    #DELAY {3.0} {sw};
+    #DELAY {3.5} {w};
+    #DELAY {4.0} {w};
+    #DELAY {4.5} {w};
+    #DELAY {5.0} {n};
+    #DELAY {5.5} {n};
+    #DELAY {6.0} {w};
+    #DELAY {6.5} {w};
+    #DELAY {7.0} {n};
+    #DELAY {7.5} {n};
+    #DELAY {8.0} {n};
+    #DELAY {8.5} {e};
+    #DELAY {9.0} {s};
+    #DELAY {9.5} {e};
+    #DELAY {10.0} {e};
+    #DELAY {10.5} {e};
+    #DELAY {11.0} {e};
+    #DELAY {11.5} {e};
+    #DELAY {12.0} {e};
+    #DELAY {12.5} {n};
+    #DELAY {13.0} {n};
+    #DELAY {13.5} {w};
+    #DELAY {14.0} {w};
+    #DELAY {14.5} {s};
+    #DELAY {15.0} {d}
+}
+
 #nop ============================================================
 #nop Config
 #nop ============================================================
@@ -223,6 +278,3 @@
 #PATHDIR {sw} {ne} {12}
 #PATHDIR {u} {d} {16}
 #PATHDIR {w} {e} {8}
-
-#nop --- Connect after global aliases and settings are loaded
-#SESSION {dsl} {dsl-mud.org} {4000}
